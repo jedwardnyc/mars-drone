@@ -1,0 +1,15 @@
+{
+  "name": "mars-colony-drone",
+  "version": "1.0.0",
+  "description": "a mining drone simulation for headlight's Colony Drone Developer challenge 2018",
+  "main": "drone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sh start.sh"
+  },
+  "author": "Jacob Rico",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
